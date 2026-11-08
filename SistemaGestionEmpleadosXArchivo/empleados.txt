@@ -1,0 +1,5 @@
+EMP001;Alexander Maradiaga;Tegucigalpa;Col. Palmira;17500.0
+EMP002;Maria Lopez;San Pedro Sula;Barrio Guamilito;21000.0
+
+EMP001;Alexander Maradiaga;Tegucigalpa;Col. Palmira;17500.0
+EMP002;Maria Lopez;San Pedro Sula;Barrio Guamilito;21000.0
